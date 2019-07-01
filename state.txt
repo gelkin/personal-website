@@ -1,1 +1,2 @@
-TODO continue from https://laracasts.com/series/laravel-from-scratch-2017/episodes/2
+TODO continue from https://laracasts.com/series/laravel-from-scratch-2017/episodes/4
+1:00
