@@ -22,7 +22,7 @@
 
             .full-height {
                 height: 100vh;
-            }
+            }i
 
             .flex-center {
                 align-items: center;
@@ -38,7 +38,7 @@
                 position: absolute;
                 right: 10px;
                 top: 18px;
-            }
+            }i
 
             .content {
                 text-align: center;
@@ -68,7 +68,7 @@
             @if (Route::has('login'))
                 <div class="top-right links">
                     @auth
-                        <a href="{{ url('/home') }}">Home</a>
+                        <a href="{{ url('/home') }}">Homie</a>
                     @else
                         <a href="{{ route('login') }}">Login</a>
 
